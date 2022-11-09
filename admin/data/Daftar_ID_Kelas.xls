@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+		<table border="1">
+			<tr>
+				<th width="10">No.</th>
+				<th>ID Kelas</th>
+				<th>Nama Kelas</th>
+				<th>urusan</th>
+			</tr>
+			
+							<tr>
+				<td>1</td>
+				<td>1</td>
+				<td>XI MM A</td>
+				<td>Multimedia</td>
+				</tr>
+								<tr>
+				<td>2</td>
+				<td>2</td>
+				<td>XI MM B</td>
+				<td>Multimedia</td>
+				</tr>
+							
+		</table>
+</body>
+</html>
