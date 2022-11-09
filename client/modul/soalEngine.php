@@ -473,7 +473,7 @@ function berakhir(){
 		  	detect++;
 		    alert("ANDA TERDETEKSI KELUAR DARI APLIKASI, ANDA HANYA MEMILIKI "+(kesempatan-detect)+" KESEMPATAN LAGI");
 		  }
-		  if(detect > 2){
+		  if(detect >= 2){ 
 		  	detect = 0
 		  	location.replace("../logout.php")
 		  }
